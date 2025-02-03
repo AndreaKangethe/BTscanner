@@ -1,0 +1,2 @@
+# BTscanner
+Scan bluetooth devices
